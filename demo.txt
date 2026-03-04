@@ -1,9 +1,3 @@
 This is line one of main
 This is line in branch1
 This is line two
-<<<<<<< Updated upstream
-ye lo ek aour line
-=======
-4th line
-5th line
->>>>>>> Stashed changes
